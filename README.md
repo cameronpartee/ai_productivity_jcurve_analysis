@@ -12,3 +12,7 @@ To find out, I aggregated data to audit the 'AI ROI' curve; here is what the dat
 
 hashtag#ArtificialIntelligence hashtag#DataAnalytics hashtag#Productivity
 
+<img width="1420" height="800" alt="Screenshot 2026-02-11 at 8 38 21 PM" src="https://github.com/user-attachments/assets/8776a984-7c81-498a-93cc-a606d96e291c" />
+
+
+
